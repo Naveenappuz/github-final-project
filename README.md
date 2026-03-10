@@ -1,7 +1,8 @@
-# github-final-project
-p = float(input("Enter principal amount: "))
-r = float(input("Enter rate of interest: "))
-t = float(input("Enter time in years: "))
+# Simple Interest Calculator
 
-si = (p * r * t) / 100
-print("Simple Interest =", si)
+This project is part of the IBM Introduction to Git and GitHub final assignment.
+
+It calculates simple interest based on:
+- Principal
+- Rate of interest
+- Time period
